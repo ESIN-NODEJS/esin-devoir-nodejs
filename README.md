@@ -1,5 +1,23 @@
 ### Avant de commencer
 
+Lisez attentivement le sujet et respectez soigneusement les modalités à suivre. Bien entendu, tout étudiant suspecté d’avoir copié sera sévèrement sanctionné.
+
+Modalités à suivre
+
+Accès aux supports de cours : oui
+
+Usage des PC : oui
+
+Accès au réseau : oui
+
+Rendu : un fichier ZIP contenant tous les fichiers permettant de faire fonctionner l'API.
+
+Dénomination du fichier : nom_prenom_NODEJS.zip Dépôt : A l’adresse suivante ozannethomas@hotmail.fr
+
+Sujet:
+
+Le devoir se trouve à l'adresse suivante: https://github.com/ESIN-NODEJS/esin-devoir-nodejs
+
 Penser à bien installer les dépendances `npm` comme nous l'avons vu plusieurs fois en cours avec la commande `npm install` ou `npm i`.
 
 Afin d'être sûr que tout est bien installé, vous devriez voir le dossier `node_modules` apparaitre.
