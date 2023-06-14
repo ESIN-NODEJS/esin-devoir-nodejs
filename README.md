@@ -32,7 +32,7 @@ Modalités à suivre
 
  Dénomination du fichier : nom_prenom_nodejs.zip
 
- Dépôt : À l’adresse suivante ozannethomas@hotmail.fr (N’oubliez pas de supprimer le dossier node_modules)
+ Dépôt : https://wetransfer.com/ à l’adresse suivante ozannethomas@hotmail.fr (N’oubliez pas de supprimer le dossier node_modules) 
 
  Contrôle :
 
